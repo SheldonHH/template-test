@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box
+  /* any time have padding */
+  /* padding will stretch the page */
+  /* prevent padding from adding extra space in page */
+}
+
+body {
+  margin: 0; 
+  /* 0 on four side top down left right */
+  min-height: 100vh;
+  /*strectch full height*/
+  background: dodgerblue
+}
